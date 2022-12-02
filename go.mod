@@ -1,3 +1,3 @@
-module github.com/emmebravo/webapp_go
+module github.com/emmebravo/web_app
 
 go 1.19
